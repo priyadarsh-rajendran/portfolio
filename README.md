@@ -1,4 +1,4 @@
-# priya_rajendran.github.io
+# portfolio
 
 ## Education 
 Data Sciecn Stuff 
