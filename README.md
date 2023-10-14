@@ -13,6 +13,10 @@ MBA in Consultancy Management, GPA: 3.5
 Sona College of Technology, Salem, TN   													            - January 2015 - May 2019
 Bachelors in Computer Science, GPA: 3.6
 
+## Skills
+ Data Science Skills: Feature Engineering, Data Visualization, machine learning, Deep learning, Feature Engineering, Attribution Modelling, Survival Analysis, SQL.
+  Programming Language Skills: Python, R, SQL.
+ Web Application tools: React JS, Node JS, HTML, CSS, Javascript.
 
 ## Work Experience 
 ### Senior Associate- Curriculum															   April 2022 - November 2022
@@ -45,10 +49,7 @@ Worked closely with a team of 5 individuals in the initial project phases to for
 Designed and developed RESTful web services that efficiently manipulated dynamic datasets, integrating Mean Stack components for seamless functionality.
 Contributed to and actively participated in project development across the entire Software Development Lifecycle (SDLC), with a strong emphasis on Mean Stack principles and practices.
 
-## Skills
- #### Data Science Skills: Feature Engineering, Data Visualization, machine learning, Deep learning, Feature Engineering, Attribution Modelling, Survival Analysis, SQL.
- #### Programming Language Skills: Python, R, SQL.
- #### Web Application tools: React JS, Node JS, HTML, CSS, Javascript.
+
 
 ## Projects
  #### Thumbnail generator using Angular 7/Internship Project
